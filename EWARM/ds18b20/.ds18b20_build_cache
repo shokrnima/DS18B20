@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<BuildDb>
+    <Tool>
+        <Name>linker</Name>
+        <Parent>
+            <Path>C:\Users\Nima\Desktop\n\ds18b20\ds18b20\EWARM\ds18b20\Exe\ds18b20.out</Path>
+            <Output>
+                <Path>C:\Users\Nima\Desktop\n\ds18b20\ds18b20\EWARM\ds18b20\List\ds18b20.map</Path>
+            </Output>
+        </Parent>
+    </Tool>
+</BuildDb>
